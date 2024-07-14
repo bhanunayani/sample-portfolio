@@ -1194,15 +1194,3 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
-
-
-/*-------*/
-a.mr-auto img {
-  width: 140px;
-  height: 140px;
-  border-radius: 70px;
-}
-
-#header.header-top a.mr-auto img {
-  display: none;
-}
